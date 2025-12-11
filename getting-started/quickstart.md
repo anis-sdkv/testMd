@@ -1,5 +1,5 @@
 ---
-icon: bolt
+description: Test description
 layout:
   width: default
   title:
@@ -19,7 +19,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart
 ---
 
-# Quickstart
+# 📚 Quickstart
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 

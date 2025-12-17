@@ -9,8 +9,8 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
+* [Editor](basics/editor/README.md)
+  * [Markdown](basics/editor/markdown.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [Integrations](basics/integrations.md)

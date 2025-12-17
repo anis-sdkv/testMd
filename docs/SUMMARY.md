@@ -3,15 +3,21 @@
 * [Welcome](README.md)
 * [Welcome in eng](en/en_welcome.md)
 
-## Getting Started
+## RU
 
-* [📚 Quickstart](en/getting-started/quickstart.md)
-* [Publish your docs](en/getting-started/publish-your-docs.md)
+* [Interactive blocks](ru/interactive-blocks/README.md)
+  * [Integrations](ru/interactive-blocks/integrations.md)
+* [Editor](ru/editor/README.md)
+  * [Markdown](ru/editor/markdown.md)
+* [Publish your docs](ru/publish-your-docs/README.md)
+  * [Images & media](ru/publish-your-docs/images-and-media.md)
+* [Page 1](ru/page-1.md)
+* [📚 Quickstart](ru/quickstart.md)
+
+## EN
+
+## Getting Started
 
 ## Basics
 
-* [Images & media](en/basics/images-and-media.md)
-* [Editor](en/basics/editor/README.md)
-  * [Markdown](en/basics/editor/markdown.md)
-* [Interactive blocks](en/basics/interactive-blocks.md)
-* [Integrations](en/basics/integrations.md)
+* [RU](basics/ru.md)
